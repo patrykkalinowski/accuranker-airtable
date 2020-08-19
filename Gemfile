@@ -1,2 +1,5 @@
 source 'https://rubygems.org'
 gem 'rack'
+gem 'airrecord'
+gem 'rest-client'
+gem 'nokogiri'
